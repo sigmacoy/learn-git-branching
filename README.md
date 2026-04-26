@@ -1,0 +1,1 @@
+# Notes about Git Branching and more
